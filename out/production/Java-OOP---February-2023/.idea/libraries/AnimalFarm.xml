@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AnimalFarm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EncapsulationExercises/AnimalFarm/AnimalFarm.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

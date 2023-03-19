@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ReflectionExercises">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ReflectionExercises/barracksWars_3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ReflectionExercises/harvestingFields.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ReflectionExercises/blackBoxInteger.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ReflectionExercises/barracksWars.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

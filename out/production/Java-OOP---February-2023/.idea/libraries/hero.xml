@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hero">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/InheritanceExercises/hero/hero.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

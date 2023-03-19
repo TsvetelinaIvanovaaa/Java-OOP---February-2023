@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HotelReservation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WorkingWithAbstractionLab/HotelReservation/HotelReservation.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SortByNameAndAge">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EncapsulationLab/SortByNameAndAge/SortByNameAndAge.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
