@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53bbffec-1b39-4ff5-ae44-2defaaef2b0d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2O6BEBSnTOh9XmUZd5ZnkH5wUur" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Cveti/Desktop/New folder/Unit-Testing"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ToyStoryTest">
+    <configuration name="ToyStoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toyStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="toyStore" />
+      <option name="MAIN_CLASS_NAME" value="toyStore.ToyStoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyStoryTest.testAddToyf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toyStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="toyStore" />
+      <option name="MAIN_CLASS_NAME" value="toyStore.ToyStoryTest" />
+      <option name="METHOD_NAME" value="testAddToyf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyStoryTest.testGetToyShelf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toyStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="toyStore" />
+      <option name="MAIN_CLASS_NAME" value="toyStore.ToyStoryTest" />
+      <option name="METHOD_NAME" value="testGetToyShelf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyStoryTest.testRemoveToyf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toyStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="toyStore" />
+      <option name="MAIN_CLASS_NAME" value="toyStore.ToyStoryTest" />
+      <option name="METHOD_NAME" value="testRemoveToyf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyStoryTest.testToyStore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toyStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="toyStore" />
+      <option name="MAIN_CLASS_NAME" value="toyStore.ToyStoryTest" />
+      <option name="METHOD_NAME" value="testToyStore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ToyStoryTest" />
+        <item itemvalue="JUnit.ToyStoryTest.testRemoveToyf" />
+        <item itemvalue="JUnit.ToyStoryTest.testAddToyf" />
+        <item itemvalue="JUnit.ToyStoryTest.testToyStore" />
+        <item itemvalue="JUnit.ToyStoryTest.testGetToyShelf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53bbffec-1b39-4ff5-ae44-2defaaef2b0d" name="Changes" comment="" />
+      <created>1680871041499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680871041499</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Unit_Testing$ToyStoryTest_testAddToyf.ic" NAME="ToyStoryTest.testAddToyf Coverage Results" MODIFIED="1680872476810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>toyStore.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Unit_Testing$ToyStoryTest_testRemoveToyf.ic" NAME="ToyStoryTest.testRemoveToyf Coverage Results" MODIFIED="1680872739615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>toyStore.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Unit_Testing$ToyStoryTest.ic" NAME="ToyStoryTest Coverage Results" MODIFIED="1680883410307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>toyStore.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Unit_Testing$ToyStoryTest_testGetToyShelf.ic" NAME="ToyStoryTest.testGetToyShelf Coverage Results" MODIFIED="1680872066352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>toyStore.*</FILTER>
+    </SUITE>
+  </component>
+</project>
