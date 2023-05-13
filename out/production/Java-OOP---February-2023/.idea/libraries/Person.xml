@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Person">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/InheritanceExercises/Person/Person.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

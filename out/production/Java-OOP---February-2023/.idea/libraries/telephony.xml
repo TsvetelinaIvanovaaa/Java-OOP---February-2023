@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="telephony">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/InterfacesAndAbstractionExercises/telephony/telephony.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
